@@ -89,7 +89,7 @@ Here are some significant commits and pull requests made during the GSoC period:
 
   - *Dockerizing Clickbait and Hate Speech services* ([#19](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/19))
    
-  - And many other frontend and backend migration and bug fixes and docker support ([#38](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/38), [#34](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/34),[ #33](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/33), [#16](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/16))
+  - And many other frontend and backend migration and bug fixes and docker support ([#38](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/38), [#34](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/34),[ #33](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/33), [#16](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/16)), [#43](https://github.com/AOSSIE-Org/Social-Street-Smart/pull/43)
   
 ### Future Scope
 
